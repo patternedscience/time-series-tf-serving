@@ -8,7 +8,7 @@ Seq2seq models are a class of Deep Learning models that have provided state-of-t
 
 - Serving the model with TensorFlow Serving and showing how to write a client to communicate with TF Serving over the network and use/plot the received predictions.
 
-There is (or will be) a video of a presentation explaining the above code; check out the updates at [PatternedScience's LinkedIn page](https://www.linkedin.com/company/patterned-science/) to find the video.
+There is a [video](https://youtu.be/H6Sv0jkwIl8) of a presentation explaining the above code/this repository.
 
 ### Conda Environments
 
